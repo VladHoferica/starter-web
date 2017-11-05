@@ -14,3 +14,7 @@ Adding deployment text
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+### Copyright
+
+2017 Git.Training.
