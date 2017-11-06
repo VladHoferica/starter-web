@@ -1,2 +1,3 @@
 .filetoexclude.txt
 log/
+*.orig
